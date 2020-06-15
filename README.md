@@ -1,9 +1,3 @@
-<h1>联系作者 Contact</h1>
-	Hao OS纯粹是本人业余兴趣之作，有问题的可以给我的邮箱或公众号留言，我看到后会尽量情况回复，但没办法做到实时回复，还请谅解。<p>
-	邮箱：<a href="mailto:154262267@qq.com">154262267@qq.com</a><br>
-	微信公众号：<br>
-	<img src="qrcode.jpg" /><br>
-	GitHub: <a href="https://github.com/dean840513/haoos" target="_blank">https://github.com/dean840513/haoos</a>
 	<h1>F&Q</h1>
 	1. 什么是Hao OS？<br>
 	Hao OS是一款底层使用了ubuntu内核模块和驱动的，界面则采用chromium os代码的操作系统。<p>

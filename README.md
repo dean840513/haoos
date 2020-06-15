@@ -1,6 +1,6 @@
-#F&Q
-	1. 什么是Hao OS？<br>
-	Hao OS是一款底层使用了ubuntu内核模块和驱动的，界面则采用chromium os代码的操作系统。<p>
+# F&Q
+1. 什么是Hao OS？
+Hao OS是一款底层使用了ubuntu内核模块和驱动的，界面则采用chromium os代码的操作系统。<p>
 	2. 和chromium os有什么区别？<br>
 	因为使用了ubuntu内核模块和驱动，所以和chromium os有以下几点不同：<br>
 	(1) 更强的硬件兼容性，绝大多数台式机和笔记本都可以做到开箱即用，为ubuntu开发的驱动也都可以用在Hao OS上。<br>

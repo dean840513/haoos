@@ -20,7 +20,7 @@
 	天翼云盘：<a href="https://cloud.189.cn/t/Vjm6Rr2iABnq" target="_blank">https://cloud.189.cn/t/Vjm6Rr2iABnq</a>（访问码：arp8）<br>
 	GitHub: <a href="https://github.com/dean840513/haoos/releases" target="_blank">https://github.com/dean840513/haoos/releases</a>
 
-	<h1>F&Q English version</h1>
+<h1>F&Q English version</h1>
 	1. What is Hao OS？<br>
 	Hao OS is a system which use Ubuntu's kernel, driver and chromium os's UI。<p>
 	2. What's differents between chromium os？<br>

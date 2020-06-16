@@ -11,8 +11,8 @@
 	4. 如何安装？<br>
 	因为底层就是ubuntu，所以兼容所有ubuntu的安装方式，包括通过u盘、光盘、硬盘、虚拟机等安装方式。您可以自行搜索ubuntu的安装教程来安装Hao OS。<br>
 	下面我写了一个u盘安装的简易教程供参考<br>
-	<a href="#" target="_blank">EFI安装教程</a><br>
-	<a href="#" target="_blank">BIOS安装教程</a><p>
+	<a href="https://dean840513.github.io/help/efi.html" target="_blank">EFI安装教程</a><br>
+	<a href="https://dean840513.github.io/help/bios.html" target="_blank">BIOS安装教程</a><p>
 	5. Hao OS使用的ubuntu和chromium os的版本的分别是什么？<br>
 	Ubuntu 18.04.4<br>
 	Chromium os 82.0.4080.0<p>
@@ -33,8 +33,8 @@
 	4. How to install？<br>
 	It compatibles with all Ubuntu's install method. Include via USB Disk, CD-ROM, Hard Disk and virtual machines. You can google Ubuntu's install method to install Hao OS, too.<br>
 	I just give a easy method which via USB Disk.<br>
-	<a href="#" target="_blank">For EFI</a><br>
-	<a href="#" target="_blank">For BIOS</a><p>
+	<a href="https://dean840513.github.io/help/efi.html" target="_blank">For EFI</a><br>
+	<a href="https://dean840513.github.io/help/bios.html" target="_blank">For BIOS</a><p>
 	5. What are the versions of Ubuntu and Chromium os in Hao OS?<br>
 	Ubuntu 18.04.4<br>
 	Chromium os 82.0.4080.0<p>

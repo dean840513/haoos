@@ -1,7 +1,9 @@
 # F&Q
 https://dean840513.github.io/help/
 # Download Link
+GitHub: <br>
 https://github.com/dean840513/haoos/releases <br>
+天翼云盘：<br>
 https://cloud.189.cn/t/fIbQ7rqyA7Bj （访问码：zws1）<br>
 # Installation steps
 For EFI <br>
